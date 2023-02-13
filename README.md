@@ -41,4 +41,4 @@ Output:
 
 ## Authors
 
-- [@RomanMarkilov](https://git.01.kood.tech/mg)
+- [@RomanMark](https://github.com/RomanMark)
